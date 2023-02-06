@@ -9,7 +9,7 @@ At the project's core, it utilizes the Karplus–Strong string synthesis algorit
 
 ## Project Demo
 
-In recording progress, to be released
+Video : https://www.youtube.com/watch?v=7p4L-bUN9NI
 
 
 ## Installation and Setup Instructions
